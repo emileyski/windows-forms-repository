@@ -1,0 +1,4 @@
+C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.AssemblyReference.cache
+C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.SuggestedBindingRedirects.cache
+C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windowsforms2.MainForm.resources
+C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.GenerateResource.cache
