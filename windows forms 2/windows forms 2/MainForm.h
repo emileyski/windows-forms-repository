@@ -1,4 +1,5 @@
 #pragma once
+#include "RegPanel.h"
 
 namespace windowsforms2 {
 
@@ -120,6 +121,8 @@ namespace windowsforms2 {
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 		String^ name = this->tbName->Text;
 		this->lbMessage->Text = "Hello " + name + " bydlo yebane";
+		windowsforms2::RegPanel form;
+		Application::Run(% form);
 	}
 	
 	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {

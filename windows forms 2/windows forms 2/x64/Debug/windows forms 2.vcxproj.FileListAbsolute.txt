@@ -2,3 +2,8 @@ C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windows f
 C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.SuggestedBindingRedirects.cache
 C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windowsforms2.MainForm.resources
 C:\My files\#Programming\C++\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.GenerateResource.cache
+C:\Users\hnure\Documents\GitHub\windows-forms-repository\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.AssemblyReference.cache
+C:\Users\hnure\Documents\GitHub\windows-forms-repository\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hnure\Documents\GitHub\windows-forms-repository\windows forms 2\windows forms 2\x64\Debug\windowsforms2.MainForm.resources
+C:\Users\hnure\Documents\GitHub\windows-forms-repository\windows forms 2\windows forms 2\x64\Debug\windows forms 2.vcxproj.GenerateResource.cache
+C:\Users\hnure\Documents\GitHub\windows-forms-repository\windows forms 2\windows forms 2\x64\Debug\windowsforms2.RegPanel.resources

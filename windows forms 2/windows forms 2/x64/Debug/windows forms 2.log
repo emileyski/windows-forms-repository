@@ -1,4 +1,6 @@
 ﻿  MainForm.cpp
-C:\My files\#Programming\C++\windows forms 2\windows forms 2\MainForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  windows forms 2.vcxproj -> C:\My files\#Programming\C++\windows forms 2\x64\Debug\windows forms 2.exe
+C:\Users\hnure\Documents\GitHub\windows-forms-repository\windows forms 2\windows forms 2\MainForm.cpp(6,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  RegPanel.cpp
+  Создание кода...
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  windows forms 2.vcxproj -> C:\Users\hnure\Documents\GitHub\windows-forms-repository\windows forms 2\x64\Debug\windows forms 2.exe
