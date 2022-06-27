@@ -119,10 +119,8 @@ namespace windowsforms2 {
 #pragma endregion
 	
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
-		String^ name = this->tbName->Text;
-		this->lbMessage->Text = "Hello " + name + " bydlo yebane";
-		windowsforms2::RegPanel form;
-		Application::Run(% form);
+		MessageBox::Show("Login and Password is right!", "Your AUTH");
+
 	}
 	
 	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
